@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "image_link": "https://images.prestigeonline.com/wp-content/uploads/sites/8/2022/01/28010531/02.Mr_.Chow-Wai-Man_Chinese-Executive-Chef_Shangri-La-Hotel-Bangkok-scaled.jpg",
+        "name": "Li Ming Hong Wei",
+        "experience_years": 10,
+        "num_recipes": 50,
+        "likes": 10000,
+        "description": "Chef Li Ming Hong Wei is a master of Sichuan cuisine, known for its bold flavors and use of spicy peppers. He has trained extensively in China and has brought his skills to a restaurant in the United States. Li Ming Hong Wei is known for his mastery of Sichuan peppercorns, which create a tingling, numbing sensation on the tongue. He creates complex dishes that balance spicy, sweet, sour, and savory flavors, using ingredients like tofu, mushrooms, and pork. Li Ming Hong Wei is also known for his attention to detail, taking great care in the presentation of his dishes.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking_method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking_method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking_method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    },
+    {
+        "id": 2,
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ken_Hom_holding_wok.jpg/800px-Ken_Hom_holding_wok.jpg",
+        "name": "Li Ming",
+        "experience_years": 8,
+        "num_recipes": 40,
+        "likes": 8000,
+        "description": "Chef Li Ming specializes in Cantonese cuisine, which is known for its delicate flavors and use of fresh ingredients. He has studied in Hong Kong and has worked in top restaurants around the world. Chef Li Ming uses a wide variety of ingredients in his cooking, including seafood, vegetables, and meats like duck and pork. He is skilled at stir-frying, steaming, and roasting, and creates dishes that are visually stunning as well as delicious. Chef Li Ming believes that good food should nourish both the body and the soul.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking_method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking_method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking_method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    },
+    {
+        "id": 3,
+        "image_link": "https://chinavillagealbany.com/wp-content/uploads/sites/17/2013/06/portraitjhon3.jpg",
+        "name": "Zhang Lei Xin Lei",
+        "experience_years": 12,
+        "num_recipes": 60,
+        "likes": 12000,
+        "description": "Chef Zhang Lei Xin Lei is a master of Shandong cuisine, which is known for its use of seafood and hearty, filling dishes. He has trained in China and has worked in restaurants in both China and the United States. Chef Zhang Lei Xin Lei's signature dishes include braised sea cucumber and stir-fried clams, both of which showcase his skill in preparing seafood. He is also known for his use of garlic and ginger, which give his dishes a pungent, savory flavor. Chef Zhang Lei Xin Lei is a true artist in the kitLi Ming Hong, and his dishes are both beautiful and delicious.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    },
+    {
+        "id": 4,
+        "image_link": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/12/02/18/94463.jpg?width=1200",
+        "name": "Li Ming Hong",
+        "experience_years": 5,
+        "num_recipes": 30,
+        "likes": 5000,
+        "description": "Chef Li Ming Hong specializes in Hunan cuisine, which is similar to Sichuan cuisine in its use of spicy peppers but is also known for its sour and salty flavors. He has trained in China and has worked in top restaurants in both China and the United States. Chef Li Ming Hong's dishes are full of bold, complex flavors, with ingredients like smoked pork, pickled vegetables, and preserved eggs. He uses a wide variety of spices, including star anise and cinnamon, to create unique and unforgettable dishes.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    },
+    {
+        "id": 5,
+        "image_link": "https://indonesiaexpat.id/wp-content/uploads/2020/01/IMG_20200102_121904-960x1042.jpg",
+        "name": "Zhang Lei Xin ",
+        "experience_years": 9,
+        "num_recipes": 45,
+        "likes": 9000,
+        "description": "Chef Zhang Lei Xin is a master of Beijing cuisine, which is known for its imperial roots and elaborate preparation techniques. He has trained extensively in China and has worked in top restaurants in both China and the United States. Chef Zhang Lei Xin's signature dishes include Peking duck and Mongolian hot pot, both of which require precise preparation and cooking techniques. He also creates delicate dishes using ingredients like lotus root and lily bulbs, showcasing his skill in creating intricate and visually stunning dishes.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    },
+    {
+        "id": 6,
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhfhQJdyvIQLNR7paUGlSqdGKgy-SYe4QMA&usqp=CAU",
+        "name": "Sun Li",
+        "experience_years": 11,
+        "num_recipes": 55,
+        "likes": 11000,
+        "description": "Chef Sun Li is a specialist in Shanghai cuisine, which is known for its sweet and savory flavors and use of soy sauce and sugar. He has trained in China and has worked in top restaurants in both China and the United States. Chef Sun Li's dishes include traditional dishes like xiaolongbao (soup dumplings) and braised pork belly, as well as more modern interpretations of classic dishes. He is known for his attention to detail, using high-quality ingredients and taking great care in the presentation of his dishes. Chef Sun Li believes that good food is about bringing people together and creating unforgettable experiences.",
+        "recipe_1": {
+            "recipe_name": "Kung Pao Chicken",
+            "Ingredients": [
+                "Chicken breast",
+                "Dried red chili peppers",
+                "Roasted peanuts",
+                "Soy sauce",
+                "Cornstarch"
+            ],
+            "Cooking method": "Cut the chicken breast into small cubes and marinate with soy sauce and cornstarch. Heat some oil in a wok or pan, add dried chili peppers and stir-fry until fragrant. Add the chicken and stir-fry until golden brown. Add roasted peanuts and stir-fry for another minute. Serve hot with steamed rice",
+            "rating": 4.5
+        },
+        "recipe_2": {
+            "recipe_name": "Hot and Sour Soup",
+            "Ingredients": [
+                "Chicken broth",
+                "Tofu",
+                "Wood ear mushrooms peanuts",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "Cooking method": "Soak the wood ear mushrooms in hot water until they are soft, then cut into thin slices. Cut the tofu into small cubes. Heat the chicken broth in a pot, add the tofu and wood ear mushrooms, and bring to a boil. Add vinegar and soy sauce to taste. Mix cornstarch with water and add to the soup to thicken it. Serve hot",
+            "rating": 4
+        },
+        "recipe_3": {
+            "recipe_name": "Cantonese Fried Rice",
+            "Ingredients": [
+                "Cooked rice",
+                "Shrimp",
+                "Chinese sausage peanuts",
+                "Eggs",
+                "Green onions"
+            ],
+            "Cooking method": "Heat some oil in a wok or pan, add beaten eggs and scramble until cooked. Add shrimp and Chinese sausage and stir-fry until cooked. Add cooked rice and stir-fry until heated through. Add chopped green onions and stir-fry for another minute. Serve hot.",
+            "rating": 4.1
+        }
+    }
+]
